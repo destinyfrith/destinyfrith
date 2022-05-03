@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Destiny Frith
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith) Let's connect! 
+Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith)  
 
 ### Thanks for stopping by! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=destinyfrith.destinyfrith&style=flat-square&color=0088cc)
 
