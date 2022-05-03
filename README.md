@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Destiny Frith
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith) Let's connect! 
 
 ### Thanks for stopping by! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=destinyfrith.destinyfrith&style=flat-square&color=0088cc)
 
 I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashville Software School 🏛. I'm a passionate learner who's always curious and excited about new technologies 💡. I am excited to combine my passion and creativity with my newfound technical skills to solve real-life problems ✨👨🏻‍💻. I'm currently applying for Full Stack positions 🤓.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Javascript, React, Python, Django & SQL.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
@@ -34,7 +34,7 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuff:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -61,7 +61,7 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
 	    <li><b>Code Editor:</b> VSCode </li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium & Linkedin</li>
+	    <li><b>To Stay Updated:</b> Dev.to & Linkedin</li>
 	    <br />	
 </details>
 
