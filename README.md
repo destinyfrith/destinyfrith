@@ -1,14 +1,14 @@
-## Hey 👋, I'm [Destiny Frith]
+## Hey 👋, I'm Destiny Frith
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/destinyfrith) Add me on LinkedIn!
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=destinyfrith.destinyfrith&style=flat-square&color=0088cc)
+### Thanks for stopping by! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=destinyfrith.destinyfrith&style=flat-square&color=0088cc)
 
 I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashville Software School 🏛. I'm a passionate learner who's always curious and excited about new technologies 💡. I am excited to combine my passion and creativity with my newfound technical skills to solve real-life problems ✨👨🏻‍💻. I'm currently applying for Full Stack positions 🤓.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript, React, <br />Python, Django & SQL.
+- 🛠 &nbsp; I’m currently working with Javascript, React, Python, Django & SQL.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/destinyfrith).
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
@@ -18,8 +18,8 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love being a #WomaninTech and advocating for inclusivity in the tech space.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 💻 &nbsp; I love being part of #womenintech and advocating for inclusivity in the tech space.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; I love attending tech events and meetups.
 
 ### Languages and Tools:
@@ -60,7 +60,7 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
 	    <li><b>Laptop: </b> MacBook M1 Pro </li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> VSCode </li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium & Linkedin</li>
 	    <br />	
 </details>
