@@ -14,13 +14,13 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
 - 👾 &nbsp; Fun fact: Reading and attending concerts are two of my favorite hobbies.
 - 📫 &nbsp; How to reach me: destinyfrith.dev@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/destinyfrith/destinyfrith/blob/master/DestinyFrithv3.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/destinyfrith/destinyfrith/blob/master/DestinyFrithv3.pdf).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love being part of #womenintech and advocating for inclusivity in the tech space.
 - 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; I love attending tech events and meetups.
+- 🍕 &nbsp; I am always open to attend tech events and meetups.
 
 ### Languages and Tools:
 
