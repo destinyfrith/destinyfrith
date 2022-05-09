@@ -10,7 +10,7 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
 
 - 🛠 &nbsp; I’m currently working with Javascript, React, Python, Django & SQL.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/destinyfrith).
+- 👨🏻‍💻 &nbsp;  Most of my projects are available on [Github](https://github.com/destinyfrith).
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
 - 👾 &nbsp; Fun fact: Reading and attending concerts are two of my favorite hobbies.
 - 📫 &nbsp; How to reach me: destinyfrith.dev@gmail.com
