@@ -14,7 +14,7 @@ I recently graduated from a Full Stack Web Development Bootcamp 🎓 at Nashvill
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
 - 👾 &nbsp; Fun fact: Reading and spending time in nature are two of my favorite hobbies.
 - 📫 &nbsp; How to reach me: destinyfrith.dev@gmail.com
-- 📝 &nbsp; Checkout my [resume](https://github.com/destinyfrith/destinyfrith/blob/master/DestinyFrithv3.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/destinyfrith/destinyfrith/blob/master/DestinyFrithResume.pdf).
 
 ### My Absolute Favorites:
 
