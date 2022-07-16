@@ -4,15 +4,15 @@ Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a
 
 ### Thanks for stopping by! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=destinyfrith.destinyfrith&style=flat-square&color=0088cc)
 
-I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashville Software School 🏛. I'm a passionate learner who's always curious and excited about new technologies 💡. I am excited to combine my passion and creativity with my newfound technical skills to solve real-life problems ✨👨🏻‍💻. I'm currently applying for Full Stack positions 🤓.
+I recently graduated from a Full Stack Web Development Bootcamp 🎓 at Nashville Software School 🏛. I'm a passionate learner who's always curious and excited about new technologies 💡. I am excited to combine my passion and creativity with my newfound technical skills to solve real-life problems ✨👨🏻‍💻. I'm currently applying for Full Stack positions 🤓.
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Javascript, React, Python, Django & SQL.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp;  Most of my projects are available on [Github](https://github.com/destinyfrith).
+- 🚀 &nbsp; I’m currently interested in exploring mobile-app development and learning TypeScript.
+- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/destinyfrith).
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
-- 👾 &nbsp; Fun fact: Reading and attending concerts are two of my favorite hobbies.
+- 👾 &nbsp; Fun fact: Reading and spending time in nature are two of my favorite hobbies.
 - 📫 &nbsp; How to reach me: destinyfrith.dev@gmail.com
 - 📝 &nbsp; Checkout my [resume](https://github.com/destinyfrith/destinyfrith/blob/master/DestinyFrithv3.pdf).
 
@@ -61,7 +61,8 @@ I'm currently enrolled in a Full Stack Web Development Bootcamp 🎓 at Nashvill
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
 	    <li><b>Code Editor:</b> VSCode </li>
-	    <li><b>To Stay Updated:</b> Dev.to & Linkedin</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium & Linkedin</li>
+	    <li><b>Current affiliations:</b> Girls in Tech Nashville, League of Feminist Coders</li>
 	    <br />	
 </details>
 
