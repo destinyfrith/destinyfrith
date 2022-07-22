@@ -10,7 +10,7 @@ I recently graduated from a Full Stack Web Development Bootcamp 🎓 at Nashvill
 
 - 🛠 &nbsp; I’m currently working with Javascript, React, Python, Django & SQL.
 - 🚀 &nbsp; I’m currently interested in exploring mobile-app development and learning TypeScript.
-- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/destinyfrith).
+- 👨🏻‍💻 &nbsp; I am currently subscribed to Scrimba + newline to further my education.
 - 💬 &nbsp; I am always open to connecting with other developers and love to network.
 - 👾 &nbsp; Fun fact: Reading and spending time in nature are two of my favorite hobbies.
 - 📫 &nbsp; How to reach me: destinyfrith.dev@gmail.com
