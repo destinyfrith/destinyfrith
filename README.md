@@ -19,7 +19,7 @@ I recently graduated from a Full Stack Web Development Bootcamp 🎓 at Nashvill
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love being part of #womenintech and advocating for inclusivity in the tech space.
-- 📰 &nbsp; Reading tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs + books whenever possible.
 - 🍕 &nbsp; I am always open to attend tech events and meetups.
 
 ### Languages and Tools:
